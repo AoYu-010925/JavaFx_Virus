@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="AoYu_Virus_1_0.jnlp">
+  <information>
+    <title>AoYu</title>
+    <vendor>AoYu</vendor>
+    <description>AoYu_Virus_1.0</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="AoYu_Virus_1_0.jar" size="11465" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="com.aoyu.Main"  name="AoYu_Virus_1.0" />
+  <update check="background"/>
+</jnlp>
